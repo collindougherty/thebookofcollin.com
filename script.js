@@ -46,7 +46,7 @@ const chapters = [
       '',
       'So the sage retired to his chambers, until the next time he decided to speak.',
       'And the people were sad, for they knew not when the sage would speak again.',
-      'But the sage told them, "I will surely make record of my words, and I will call it "The Book of Collin".',
+      'But the sage told them, "I will surely make record of my words, and I will call it \'The Book of Collin\'.',
       'For Collin is an excellent name."',
       '',
       'And the sage did as he said he would.',
