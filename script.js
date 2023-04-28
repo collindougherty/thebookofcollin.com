@@ -35,6 +35,12 @@ const chapters = [
       'Even better, it can be a tank.',
       'From this we learn after what the Panzer division was named.',
       'And though those who named it were foolish, they were wise in this."',
+      '',
+      'And the sage continued, saying:',
+      '"Of all fools, the greatest is he who saves homework for Fridays.',
+      'For Friday precedes Saturday.',
+      'And Saturday\'s are for the boys.',
+      'Thus, he who does homework on Friday\'s respects neither himself nor the boys."',
     ],
   },
 
