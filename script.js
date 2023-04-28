@@ -27,7 +27,6 @@ const chapters = [
       'And the sage continued, saying:',
       '"Many are those who wear joggers, but few are those who jog.',
       'And even fewer are those who jog in joggers."',
-      'And the sage held back back a smile at his own cleverness.',
       '',
       'Continuing, the sage said:',
       '"Of all cars, the minivan is the greatest.',
