@@ -21,8 +21,8 @@ const chapters = [
       'And the people were perplexed, and they asked the sage, saying:',
       '"What does this mean?"',
       'And the sage answered, saying:',
-      '"Those who go to the gym lack wisdom, for their gains are temporary."',
-      '"But those whose gym goes to them are wise, for their gains are permanent."',
+      '"Those who go to the gym lack wisdom, for their gains are temporary.',
+      'But those whose gym goes to them are wise, for their gains are permanent."',
     ],
   },
 
