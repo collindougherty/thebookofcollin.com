@@ -30,7 +30,11 @@ const chapters = [
       'And the sage held back back a smile at his own cleverness.',
       '',
       'Continuing, the sage said:',
-      '',
+      '"Of all cars, the minivan is the greatest.',
+      'For it is the only car that can be a car, a truck, and a van.',
+      'Even so, it can be a tank.',
+      'From this we learn after what the Panzer division was named.',
+      'And though those who named it were foolish, they were wise in this."',
     ],
   },
 
