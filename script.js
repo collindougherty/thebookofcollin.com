@@ -16,7 +16,13 @@ const chapters = [
     title: 'Chapter 2: The Middle',
     verses: [
       'Now on one occasion the sage began to speak, saying:',
+      '',
       '"Many are those who go to the gym, but few are those whose gym goes to them."',
+      'And the people were perplexed, and they asked the sage, saying:',
+      '"What does this mean?"',
+      'And the sage answered, saying:',
+      '"Those who go to the gym lack wisdom, for their gains are temporary."',
+      '"But those whose gym goes to them are wise, for their gains are permanent."',
     ],
   },
 
