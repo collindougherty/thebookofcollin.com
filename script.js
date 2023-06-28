@@ -40,6 +40,7 @@ const chapters = [
       'For Friday precedes Saturday.',
       'And Saturday\'s are for the boys.',
       'Thus, he who does homework on Friday\'s respects neither himself nor the boys."',
+      'And he said, "Be late or on time, but never early."',
     ],
   },
 
